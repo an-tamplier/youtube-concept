@@ -1,5 +1,5 @@
 # Youtube-concept - training example.
-The project was completed by: an-tamplier
+The project was executed by: an-tamplier
 
 ## The technologies used are as follows: 
 - HTML
